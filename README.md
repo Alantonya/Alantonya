@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Alan
 
-<!--
-**Alantonya/Alantonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Junior Fullstack Developer** apasionado por construir aplicaciones web completas.  
+Trabajo con **HTML, CSS, JavaScript, React, Node.js, Express y PostgreSQL**.
 
-Here are some ideas to get you started:
+## 🔹 Proyectos destacados
+- [FullstackEjemplo-Task](https://github.com/Alantonya/FullstackEjemplo-Task) – App de tareas completa (frontend React + backend Node.js/Express)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+HTML | CSS | JavaScript | React | Node.js | Express | PostgreSQL | Git/GitHub
+
+## 📫 Contáctame
+[LinkedIn]([https://www.linkedin.com/in/alantonya/](https://www.linkedin.com/in/alan-antonio-briones-martinez-286bb1333/))
