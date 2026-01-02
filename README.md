@@ -10,4 +10,4 @@ Trabajo con **HTML, CSS, JavaScript, React, Node.js, Express y PostgreSQL**.
 HTML | CSS | JavaScript | React | Node.js | Express | PostgreSQL | Git/GitHub
 
 ## 📫 Contáctame
-[LinkedIn]([https://www.linkedin.com/in/alantonya/](https://www.linkedin.com/in/alan-antonio-briones-martinez-286bb1333/))
+- [LinkedIn]([https://www.linkedin.com/in/alantonya/](https://www.linkedin.com/in/alan-antonio-briones-martinez-286bb1333/))
